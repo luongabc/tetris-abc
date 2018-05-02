@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1525230179 source:c:\users\luc\desktop\updetetetris\tetrisupdet.cpp
+	<iomanip>
+	<iostream>
+	<vector>
+	<random>
+	<windows.h>
+	<fstream>
+	"console.h"
+
+1525231149 c:\users\luc\desktop\updetetetris\console.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<windef.h>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+
+1523689656 source:c:\users\luc\desktop\updetetetris\demo.cpp
+	<fstream>
+	<iostream>
+
+1523776970 source:c:\users\luc\desktop\updetetetris\untitled3.cpp
+	<iostream>
+	<string>
+	<fstream>
+
