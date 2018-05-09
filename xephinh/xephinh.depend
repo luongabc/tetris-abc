@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1525840079 source:c:\users\ccne\desktop\xephinh\untitled1.cpp
+	<iomanip>
+	<vector>
+	<random>
+	<windows.h>
+	"console.h"
+
+1525839983 c:\users\ccne\desktop\xephinh\console.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+
