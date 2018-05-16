@@ -1,0 +1,6 @@
+﻿  tetrisupdet.cpp
+c:\users\duong\desktop\tetris 2\console.h(32): warning C4273: 'GetConsoleWindow': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\wincon.h(911): note: see previous definition of 'GetConsoleWindow'
+c:\users\duong\desktop\tetris 2\tetrisupdet.cpp(378): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\duong\desktop\tetris 2\tetrisupdet.cpp(395): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  tetris 2.vcxproj -> C:\Users\duong\Desktop\tetris 2\Debug\tetris 2.exe
